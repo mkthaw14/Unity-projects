@@ -1,0 +1,3 @@
+The original author of these scripts are from :
+
+https://github.com/jinincarnate/off-screen-indicator

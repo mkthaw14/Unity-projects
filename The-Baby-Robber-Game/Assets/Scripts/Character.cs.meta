@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4dbf4315b8bafe1489b2a3ccbac4fd59
+timeCreated: 1570181862
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mV: {instanceID: 0}
+  - charIK: {instanceID: 0}
+  - wepMan: {instanceID: 0}
+  - chestTran: {instanceID: 0}
+  - aimPivot: {instanceID: 0}
+  - hb: {instanceID: 0}
+  - rightHand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
